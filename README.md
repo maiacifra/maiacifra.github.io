@@ -1,12 +1,9 @@
 # maiacifra.github.io
 
-Alterei recentemente o nome de usuário.
-
-Endereço anterior: (somente arquivos do começo do curso de FrontEnd). 
-https://github.com/maiacifra/marcosmaiadev.github.io
+Alterei recentemente o nome de usuário 
 
 Portfólio aguarda atualização.
-
+(somente arquivos do começo do curso de FrontEnd)
 
 ------  
   
@@ -34,6 +31,6 @@ maiacifra@gmail.com
 ------  
   
 Portfólio de desenvolvimento Marcos Maia.   
-[Acesso web aqui](https://marcosmaiascript.github.io/)    
-[Atualizar para repo novo:](https://github.com/maiacifra/maiacifra.github.io)    
+link ... 
+Repositórios: 
 https://github.com/maiacifra/maiacifra.github.io   
